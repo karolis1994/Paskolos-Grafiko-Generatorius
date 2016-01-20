@@ -1,0 +1,9 @@
+c:\users\karolis\documents\visual studio 2013\Projects\PapildomaUzduotis2\PapildomaUzduotis2\bin\Debug\PapildomaUzduotis2.exe.config
+C:\Users\Karolis\Documents\Visual Studio 2013\Projects\PapildomaUzduotis2\PapildomaUzduotis2\bin\Debug\PapildomaUzduotis2.exe
+C:\Users\Karolis\Documents\Visual Studio 2013\Projects\PapildomaUzduotis2\PapildomaUzduotis2\bin\Debug\PapildomaUzduotis2.pdb
+C:\Users\Karolis\Documents\Visual Studio 2013\Projects\PapildomaUzduotis2\PapildomaUzduotis2\obj\Debug\PapildomaUzduotis2.csprojResolveAssemblyReference.cache
+C:\Users\Karolis\Documents\Visual Studio 2013\Projects\PapildomaUzduotis2\PapildomaUzduotis2\obj\Debug\PapildomaUzduotis2.Form1.resources
+C:\Users\Karolis\Documents\Visual Studio 2013\Projects\PapildomaUzduotis2\PapildomaUzduotis2\obj\Debug\PapildomaUzduotis2.Properties.Resources.resources
+C:\Users\Karolis\Documents\Visual Studio 2013\Projects\PapildomaUzduotis2\PapildomaUzduotis2\obj\Debug\PapildomaUzduotis2.csproj.GenerateResource.Cache
+C:\Users\Karolis\Documents\Visual Studio 2013\Projects\PapildomaUzduotis2\PapildomaUzduotis2\obj\Debug\PapildomaUzduotis2.exe
+C:\Users\Karolis\Documents\Visual Studio 2013\Projects\PapildomaUzduotis2\PapildomaUzduotis2\obj\Debug\PapildomaUzduotis2.pdb
